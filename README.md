@@ -8,5 +8,5 @@
 | 4     | Game Play Analysis III            | MEDIUM     | [<img src="/assets/click-me-button-flat.png" width="150px" />](https://leetcode.com/problems/game-play-analysis-iii) |              |
 | 5     | Tree Node                         | MEDIUM     | [<img src="/assets/click-me-button-flat.png" width="150px" />](https://leetcode.com/problems/tree-node) |              |
 | 6     | Grand Slam Titles                 | MEDIUM     | [<img src="/assets/click-me-button-flat.png" width="150px" />](https://leetcode.com/problems/grand-slam-titles) |              |
-| 7     | Leetflex Banned Accounts          | MEDIUM     | [<img src="/assets/click-me-button-flat.png" width="150px" />](https://leetcode.com/problems/leetflex-banned-accounts) |              |
+| 7     | Leetflex Banned Accounts          | MEDIUM     | [<img src="/assets/click-me-button-flat.png" width="150px"  target="_blank"/>](https://leetcode.com/problems/leetflex-banned-accounts) |              |
 
